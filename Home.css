@@ -1,0 +1,17 @@
+body {
+    background-color: #398ad6;
+}
+img {
+    width: 100%;
+}  
+.título {
+    color:#060707;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;  
+}
+
+.texto {
+    text-align: center;
+    margin-top: 20px
+}
